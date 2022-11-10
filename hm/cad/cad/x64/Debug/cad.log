@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\ZJU\Desktop\hm\cad\cad\eularoperation.h(1,1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\ZJU\Desktop\hm\cad\cad\eularoperation.h(234,39): warning C4101: “up”: 未引用的局部变量
+  cad.vcxproj -> C:\Users\ZJU\Desktop\hm\cad\x64\Debug\cad.exe
